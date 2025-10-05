@@ -2,6 +2,8 @@ import Poza1 from "../assets/poza1.jpeg";
 import Poza2 from "../assets/poza2.jpeg";
 import Poza3 from "../assets/poza3.jpeg";
 import Poza4 from "../assets/poza4.jpeg";
+import Poza5 from "../assets/Poza5.jpeg";
+import Poza6 from "../assets/Poza6.jpeg";
 
 export default function Gallery() {
   const images = [
@@ -10,20 +12,20 @@ export default function Gallery() {
       title: 'Manichiură Elegantă'
     },
     {
-      url: 'https://images.pexels.com/photos/3997379/pexels-photo-3997379.jpeg?auto=compress&cs=tinysrgb&w=800',
+      url: Poza3,
       title: 'Design French'
     },
     {
-      url: Poza2,
+      url: Poza5,
       title: 'Culori Vibrante'
     },
     {
-      url: Poza3,
+      url: Poza6,
       title: 'Nail Art'
     },
     {
       url: Poza4,
-      title: 'Pedichiură Perfectă'
+      title: 'Relaxare Perfectă'
     },
     {
       url: 'https://images.pexels.com/photos/3997386/pexels-photo-3997386.jpeg?auto=compress&cs=tinysrgb&w=800',

@@ -16,7 +16,7 @@ export default function CTA() {
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
           <a
-            href="tel:+40"
+            href="tel:+40772225528"
             className="inline-flex items-center gap-2 px-8 py-4 bg-white text-rose-600 rounded-full hover:bg-rose-50 transition-all duration-300 shadow-xl hover:shadow-2xl font-semibold"
           >
             <Phone className="w-5 h-5" />

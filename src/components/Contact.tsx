@@ -23,7 +23,7 @@ export default function Contact() {
               </div>
               <div>
                 <h3 className="text-xl font-semibold text-gray-900 mb-2">Adresă</h3>
-                <p className="text-gray-600">Adjud, Județul Vrancea</p>
+                <p className="text-gray-600">Strada Libertății, Adjud, Județul Vrancea</p>
               </div>
             </div>
 
@@ -41,19 +41,6 @@ export default function Contact() {
               </div>
             </div>
 
-            <div className="flex items-start gap-4">
-              <div className="flex-shrink-0">
-                <div className="w-12 h-12 rounded-full bg-rose-100 flex items-center justify-center">
-                  <Mail className="w-6 h-6 text-rose-500" strokeWidth={1.5} />
-                </div>
-              </div>
-              <div>
-                <h3 className="text-xl font-semibold text-gray-900 mb-2">Email</h3>
-                <a href="mailto:contact@example.com" className="text-gray-600 hover:text-rose-500 transition-colors">
-                  contact@example.com
-                </a>
-              </div>
-            </div>
 
             <div className="flex items-start gap-4">
               <div className="flex-shrink-0">
@@ -64,8 +51,8 @@ export default function Contact() {
               <div>
                 <h3 className="text-xl font-semibold text-gray-900 mb-2">Program</h3>
                 <div className="text-gray-600 space-y-1">
-                  <p>Luni - Vineri: 10:00 - 19:00</p>
-                  <p>Sâmbătă: 10:00 - 16:00</p>
+                  <p>Luni - Vineri: 09:00 - 19:00</p>
+                  <p>Sâmbătă: 10:00 - 18:00</p>
                   <p>Duminică: Închis</p>
                 </div>
               </div>
@@ -74,7 +61,7 @@ export default function Contact() {
 
           <div className="h-[500px] rounded-2xl overflow-hidden shadow-xl">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d44551.89371384847!2d27.15!3d46.10!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40b46d984def8515%3A0x9cf963a8f9798dd6!2sAdjud%2C%20Rom%C3%A2nia!5e0!3m2!1sro!2sro!4v1234567890"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2766.786633728638!2d27.1804827761781!3d46.095230271091324!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40b5b5c16db039c9%3A0xc0f2c0dcad2b3868!2sStrada%20Libert%C4%83%C5%A3ii%2C%20625100%20Adjud!5e0!3m2!1sro!2sro!4v1759671971509!5m2!1sro!2sro"
               width="100%"
               height="100%"
               style={{ border: 0 }}

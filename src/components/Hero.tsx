@@ -22,7 +22,7 @@ export default function Hero() {
         </h1>
 
         <p className="text-xl md:text-2xl text-rose-50 mb-8 max-w-2xl mx-auto font-light">
-          Servicii profesionale de manichiură și pedichiură cu gel și semi-permanent
+          Servicii profesionale de manichiură și pedichiură cu gel
         </p>
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">

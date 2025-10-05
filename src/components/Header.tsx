@@ -43,7 +43,7 @@ export default function Header() {
                 isSolid ? 'text-gray-900' : 'text-white'
               }`}
             >
-              Nails Studio
+              Urban Gloss
             </span>
           </a>
 

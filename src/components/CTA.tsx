@@ -11,7 +11,7 @@ export default function CTA() {
           Pregătită Pentru Unghii Perfecte?
         </h2>
         <p className="text-xl text-rose-50 mb-8 max-w-2xl mx-auto">
-          Rezervă acum o programare și oferă-ți momentul de răsfăț pe care îl meriți. Primele 10 clienți noi beneficiază de 15% reducere!
+          Rezervă acum o programare și oferă-ți momentul de răsfăț pe care îl meriți.
         </p>
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">

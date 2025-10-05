@@ -5,25 +5,25 @@ const services = [
     icon: Sparkles,
     title: 'Manichiură cu Gel',
     description: 'Unghii perfecte și rezistente, realizate cu produse premium de calitate superioară.',
-    features: ['Durată lungă', 'Finish lucios', 'Design personalizat']
+    features: ['Rezistenţă', 'Finish lucios', 'Design personalizat']
   },
   {
     icon: Heart,
     title: 'Manichiură Semi-Permanent',
     description: 'Culoare intensă și strălucitoare care rezistă până la 3 săptămâni.',
-    features: ['Uscare rapidă', 'Fără zgârieturi', 'Paletă largă de culori']
+    features: ['Luciu intens, fără zgârieturi', 'Uscare rapidă la lampă', 'Paletă largă de culori']
   },
   {
     icon: Star,
-    title: 'Pedichiură cu Gel',
-    description: 'Picioare îngrijite și unghii perfecte pentru orice ocazie.',
-    features: ['Îngrijire completă', 'Masaj relaxant', 'Rezultat impecabil']
+    title: 'Pedichiură Spa',
+    description: 'O experiență de relaxare totală: băi aromate, exfoliere delicată și hidratare intensă.',
+    features: ['Exfoliere delicată', 'Masaj relaxant', 'Tratament pentru călcâie catifelate / Curățare calus călcâie']
   },
   {
     icon: Flower2,
     title: 'Pedichiură Semi-Permanent',
     description: 'Tratament complet pentru picioare și culoare de lungă durată.',
-    features: ['Efect de salon', 'Confort maxim', 'Finish profesional']
+    features: ['Rezistență îndelungată', 'Culori vibrante, pentru orice sezon', 'Strălucire de durată']
   }
 ];
 

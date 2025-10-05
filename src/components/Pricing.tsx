@@ -3,20 +3,20 @@ import { Check } from 'lucide-react';
 const packages = [
   {
     name: 'Manichiură Gel',
-    price: '80',
-    duration: '60 min',
+    price: '130',
+    duration: '120 min',
     features: [
       'Îndepărtare cuticule',
       'Îngrijire unghii',
       'Aplicare gel',
-      'Design simplu inclus',
+      'Design inclus',
       'Masaj mâini'
     ]
   },
   {
     name: 'Manichiură Semi-Permanent',
-    price: '60',
-    duration: '45 min',
+    price: '100',
+    duration: '90 min',
     features: [
       'Îndepărtare cuticule',
       'Îngrijire unghii',
@@ -27,9 +27,9 @@ const packages = [
     popular: true
   },
   {
-    name: 'Pedichiură Gel',
+    name: 'Pedichiură',
     price: '100',
-    duration: '75 min',
+    duration: '60 min',
     features: [
       'Îngrijire completă picioare',
       'Îndepărtare cuticule',
@@ -39,15 +39,16 @@ const packages = [
     ]
   },
   {
-    name: 'Pedichiură Semi-Permanent',
-    price: '80',
-    duration: '60 min',
+    name: 'Pedichiură Spa',
+    price: '150',
+    duration: '90 min',
     features: [
-      'Îngrijire completă picioare',
-      'Îndepărtare cuticule',
-      'Aplicare lac semi-permanent',
-      'Masaj picioare',
-      'Cremă hidratantă'
+      'Băi aromate cu săruri și uleiuri esențiale',
+      'Exfoliere intensă și tratament pentru călcâie',
+      'Îndepărtare calus și cuticule',
+      'Masaj prelungit de relaxare',
+      'Mască hidratantă pentru picioare',
+      'Aplicare lac semi-permanent sau tratament lucios'
     ]
   }
 ];

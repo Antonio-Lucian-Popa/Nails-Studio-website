@@ -1,6 +1,7 @@
 import Poza1 from "../assets/poza1.jpeg";
 import Poza2 from "../assets/poza2.jpeg";
 import Poza3 from "../assets/poza3.jpeg";
+import Poza4 from "../assets/poza4.jpeg";
 
 export default function Gallery() {
   const images = [
@@ -21,7 +22,7 @@ export default function Gallery() {
       title: 'Nail Art'
     },
     {
-      url: 'https://images.pexels.com/photos/3997374/pexels-photo-3997374.jpeg?auto=compress&cs=tinysrgb&w=800',
+      url: Poza4,
       title: 'Pedichiură Perfectă'
     },
     {
